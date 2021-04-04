@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/☆☆☆☆☆-Azure-0089D6?logo=Microsoft Azure&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-Azure-0089D6?logo=Microsoft%20Azure&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TypeScript-2F74C0?logo=typescript&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C++-00599C?logo=c%2B%2B&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MySQL-003B57?logo=mySQL&logoColor=ffffff" height="30"><br/>
