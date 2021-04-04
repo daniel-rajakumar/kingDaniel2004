@@ -1,4 +1,6 @@
-# Hi there, I'm Daniel
+<h1> <img src="pikahello.gif" width="60"> Hi there, I'm Daniel</h1>
+
+
 
 <!-- <hr/> -->
 
@@ -81,6 +83,10 @@
     <img  src='tenor.gif'>
 </div>
 </details>
+
+
+
+
 
 <!-- random joke generator -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
