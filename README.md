@@ -5,7 +5,7 @@
 
 
 
-<!-- <details> -->
+<details>
 <summary><b>EXPERIENCES:</b></summary>
   <br/>
 
@@ -30,10 +30,11 @@
 <img src="https://img.shields.io/badge/★★★☆☆-Android-3DDC84?logo=android&logoColor=ffffff" height="30"><br/>
 
 
-<!-- </details> -->
+</details>
 
+<hr/>
 
-<!-- <details> -->
+<details>
 <summary><b>TODO: </b></summary>
   <br/>
 
@@ -46,7 +47,7 @@
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C%20Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C-A8B9CC?logo=c&logoColor=ffffff" height="30"><br/>
 
-<!-- </details> -->
+</details>
 
 <hr/>
 
