@@ -18,7 +18,11 @@ public class about {
 <hr/>
 
 <details>
+<summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <br/>
+
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+
 </details>
 
 
