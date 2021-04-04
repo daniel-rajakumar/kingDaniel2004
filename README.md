@@ -45,13 +45,17 @@
 
 
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-MySQL-DD8A00?logo=mySQL&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-NumPy-F1C232?logo=NumPy&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff&style=plastic" height="30"><br/>
-<img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-Numba-00A3E0?logo=Numba&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Azure-0089D6?logo=Microsoft%20Azure&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TypeScript-2F74C0?logo=typescript&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-R-276DC3?logo=r&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C++-00599C?logo=c%2B%2B&logoColor=ffffff&style=plastic" height="30"><br/>
-<img src="https://img.shields.io/badge/☆☆☆☆☆-MySQL-003B57?logo=mySQL&logoColor=ffffff&style=plastic" height="30"><br/>
-<img src="https://img.shields.io/badge/☆☆☆☆☆-C%20Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-openCV-5C3EE8?logo=openCV&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-766DB2?logo=kotlin&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-C Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff&style=plastic" height="30"><br/>
 
 </details></h4>
 
