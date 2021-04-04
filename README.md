@@ -19,8 +19,12 @@
 ☆☆☆☆☆ 
 -->
 
-
-<img align="right" src="coding.gif"><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="coding.gif" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="coding.gif" />
+</a>
 
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=plastic" height="30"><br/>
