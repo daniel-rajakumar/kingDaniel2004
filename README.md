@@ -39,12 +39,12 @@
 
 <hr/>
 
-<!-- <h4><details> -->
+<h4><details>
 <summary><b>TODO: </b></summary>
   <br/>
 
 
-<img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff&style=plastic" height="30"><br/>    
+<img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Azure-0089D6?logo=Microsoft%20Azure&logoColor=ffffff&style=plastic" height="30"><br/>
