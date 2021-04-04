@@ -4,7 +4,7 @@
 
 
 
-<h4  style="margin-left: 30px"><details>
+<h4 ><details>
 <summary><b>EXPERIENCES:</b></summary>
 <br/>
 
