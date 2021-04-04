@@ -39,13 +39,13 @@
 
 <hr/>
 
-<h4><details>
+<!-- <h4><details> -->
 <summary><b>TODO: </b></summary>
   <br/>
 
 
 
-
+<input type="checkbox" style="width: 30px;height: 30px">
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff" height="30"><br/>
@@ -68,7 +68,8 @@
 
 <hr/>
 
-<h4><details>
+<!-- <h4><details> -->
+
     <summary><b>  Happy Githubbing! </b></summary>
 <div align="center">
     <img  src='tenor.gif'>
