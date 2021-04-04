@@ -15,6 +15,7 @@
 
 <img src="https://img.shields.io/badge/OS-GNU/Linux-FFD133?logo=linux&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/OS-Windows%2010-0083DB?logo=windows&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/OS-Android-9FC437?logo=android&logoColor=ffffff" height="30"><br/>
 
 <img src="https://img.shields.io/badge/Other-Googling-F7F7F7?logo=google&logoColor=ffffff" height="30"><br/>
 
