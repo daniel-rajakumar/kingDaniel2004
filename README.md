@@ -19,6 +19,9 @@
 ☆☆☆☆☆ 
 -->
 
+
+<img align="right" src="coding.gif"><br/>
+
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★★★☆☆-Java-F89917?logo=java&logoColor=ffffff&style=plastic" height="30"><br/>
@@ -79,6 +82,5 @@
 
 </details></h4>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=kingDaniel2004)
+<!-- random joke generator -->
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
