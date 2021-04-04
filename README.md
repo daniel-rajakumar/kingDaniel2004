@@ -22,12 +22,9 @@ public class about {
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/LINUX-007396.svg?&style=flat&logo=linux&logoColor=white)
 
 </details>
-
-
-
-java 
 
 <div align="center">
     <img  src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&count_private=true&show_icons=true&theme=onedark'>
