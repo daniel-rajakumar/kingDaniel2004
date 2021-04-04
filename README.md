@@ -4,7 +4,7 @@
 
 
 
-<h4><details>
+<h4 align="center"><details>
 <summary><b>EXPERIENCES:</b></summary>
 <br/>
 
@@ -68,7 +68,7 @@
 
 <h4><details>
 
-    <summary><b>  Happy Githubbing! </b></summary>
+<summary><b>  Happy Githubbing! </b></summary>
 <div align="center">
     <img  src='tenor.gif'>
 </div>
