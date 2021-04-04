@@ -22,7 +22,7 @@
 
 
 
-<img align="right" src="coding.gif" height="420" />  <!-- size = 30 * #_of_element -->
+<img align="right" src="coding.gif" height="400" /> 
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★★★☆☆-Java-F89917?logo=java&logoColor=ffffff&style=plastic" height="30"><br/>
@@ -48,7 +48,7 @@
   <br/>
 
 
-<img align="right" src="todo.gif" height="300" />  <!-- size = 30 * #_of_element -->
+<img align="right" src="todo.gif" height="300" /> 
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MySQL-DD8A00?logo=mySQL&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-NumPy-F1C232?logo=NumPy&logoColor=ffffff&style=plastic" height="30"><br/>
