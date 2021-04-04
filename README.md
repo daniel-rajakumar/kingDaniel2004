@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel
 
-<hr/>
+<!-- <hr/> -->
 
 
 
