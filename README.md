@@ -41,7 +41,7 @@
 
 </details></h2>
 
-<hr/>
+<!-- <hr/> -->
 
 <h2><details>
 <summary><b>TODO: </b></summary>
@@ -64,7 +64,7 @@
 
 </details></h2>
 
-<hr/>
+<!-- <hr/> -->
 
 <div align="center">
     <img  src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&count_private=true&show_icons=true&theme=onedark'>
