@@ -21,15 +21,15 @@ public class about {
 <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/LINUX-007396.svg?&style=flat&logo=linux&logoColor=white)
+![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=444444&color=orange&logoColor=white&label=%20&logoWidth=20)
+![Java](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=444444&color=blue&logoColor=white&label=%20&logoWidth=20)
+
 
 </details>
 
 <div align="center">
     <img  src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&count_private=true&show_icons=true&theme=onedark'>
     <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&langs_count=8&theme=onedark'>
-</div>
 </div>
 
 <div align="center">
