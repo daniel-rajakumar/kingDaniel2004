@@ -54,8 +54,8 @@
 <img src="https://img.shields.io/badge/☆☆☆☆☆-R-276DC3?logo=r&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C++-00599C?logo=c%2B%2B&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-openCV-5C3EE8?logo=openCV&logoColor=ffffff&style=plastic" height="30"><br/>
-<img src="https://img.shields.io/badge/☆☆☆☆☆-C Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-766DB2?logo=kotlin&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-C Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff&style=plastic" height="30"><br/>
 
 </details></h4>
 
