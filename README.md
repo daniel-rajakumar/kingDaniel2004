@@ -15,15 +15,15 @@
 <!-- ★☆☆ -->
 <!-- ☆☆☆ -->
 
-<img src="https://img.shields.io/badge/★★☆-Java-F89917?logo=java&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆-GNU/Linux-FCC624?logo=linux&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆-Python-3776AB?logo=python&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆-VS code-007ACC?logo=visual%20studio%20code&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆-Windows%2010-0078D6?logo=windows&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆-Node.JS-339933?logo=node.js&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★-Googling-34A853?logo=google&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆-Android-3DDC84?logo=android&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Java-F89917?logo=java&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-GNU/Linux-FCC624?logo=linux&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-Python-3776AB?logo=python&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-VS code-007ACC?logo=visual%20studio%20code&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Windows%2010-0078D6?logo=windows&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-Node.JS-339933?logo=node.js&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Googling-34A853?logo=google&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-Android-3DDC84?logo=android&logoColor=ffffff" height="30"><br/>
 
 
 <!-- </details> -->
