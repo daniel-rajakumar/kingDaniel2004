@@ -75,14 +75,16 @@
 
 <hr/>
 
-<h2><details>
+<h2>
+<details>
 
 <summary><b>  Happy Githubbing! </b></summary>
 <div align="center">
     <img  src='tenor.gif'>
 </div>
 
-</details></h2>
+</details>
+</h2>
 
 <!-- random joke generator -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
