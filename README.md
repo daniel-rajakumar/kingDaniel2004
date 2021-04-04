@@ -25,7 +25,7 @@ public class about {
 
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=444444&color=3674A6&logoColor=white&label=%20&logoWidth=20" height="30">
 
-<img src="https://img.shields.io/static/v1?message=Java Script&logo=javascript&labelColor=444444&color=EFD81D&logoColor=white&label=%20&logoWidth=20" height="30">
+<img src="https://img.shields.io/static/v1?message=Java%20Script&logo=javascript&labelColor=444444&color=EFD81D&logoColor=white&label=%20&logoWidth=20" height="30">
 
 
 </details>
