@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/★★★☆☆-VS code-007ACC?logo=visual%20studio%20code&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/★☆☆☆☆-CSS3-1572B6?logo=CSS3&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/★★☆☆☆-Python-3776AB?logo=python&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Unity-000000?logo=unity&logoColor=ffffff" height="30"><br/>
 
 
 </details></h4>
@@ -45,6 +46,8 @@
 
 
 
+<img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C++-00599C?logo=c%2B%2B&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-TypeScript-2F74C0?logo=typescript&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff" height="30"><br/>
