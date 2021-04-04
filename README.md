@@ -20,14 +20,10 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <span align="left">
-    <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30">
-  </span>
+    <img align="left" src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30">
 </a>
 <a>
-  <span align="right">
-    <img alig n="center" src="coding.gif" height="500" />
-  </span>
+    <img align="right" src="coding.gif" height="500" />
 </a>
 
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
