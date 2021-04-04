@@ -21,8 +21,9 @@ public class about {
 <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=444444&color=orange&logoColor=white&label=%20&logoWidth=20)
-![Java](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=444444&color=blue&logoColor=white&label=%20&logoWidth=20)
+<img src="https://img.shields.io/static/v1?message=Java&logo=java&labelColor=444444&color=F89917&logoColor=white&label=%20&logoWidth=20" height="30">
+<img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=444444&color=3674A6&logoColor=white&label=%20&logoWidth=20" height="30">
+<img src="https://img.shields.io/static/v1?message=Java Script&logo=javascript&labelColor=444444&color=EFD81D&logoColor=white&label=%20&logoWidth=20" height="30">
 
 
 </details>
