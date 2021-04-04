@@ -19,13 +19,10 @@
 ☆☆☆☆☆ 
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30">
-</a>
-<a>
-    <img align="right" src="coding.gif" height="500" />
-</a>
 
+
+
+<img align="right" src="coding.gif" height="500" />
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/★★★☆☆-Java-F89917?logo=java&logoColor=ffffff&style=plastic" height="30"><br/>
