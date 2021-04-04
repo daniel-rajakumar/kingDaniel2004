@@ -20,12 +20,14 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <span align="center">
-    <img src="coding.gif" height="50" />
+  <span align="left">
+    <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30">
   </span>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img alig n="center" src="coding.gif" height="50" />
+<a>
+  <span align="right">
+    <img alig n="center" src="coding.gif" height="500" />
+  </span>
 </a>
 
 <img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
