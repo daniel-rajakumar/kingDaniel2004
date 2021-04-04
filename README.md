@@ -1,19 +1,4 @@
 # Hi there, I'm Daniel
-<hr/>
-```java
-public class about {
-    public static void main(String[] args){
-        System.out.println("Hey there, Im a not a bot. ");
-    }
-}
-```
-<hr/>
-```py 
-    print('Languages: ')
-    print('Java ')
-    print('Python: ')
-    print('Javascript: ')
-```
 
 <hr/>
 
