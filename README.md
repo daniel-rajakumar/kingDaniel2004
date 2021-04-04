@@ -4,7 +4,7 @@
 
 
 
-<h4 align="center"><details>
+<h4 style="width: 50%; margin: auto;"><details>
 <summary><b>EXPERIENCES:</b></summary>
 <br/>
 
@@ -39,7 +39,7 @@
 
 <hr/>
 
-<h4><details>
+<h4 style="width: 50%; margin: auto;"><details>
 <summary><b>TODO: </b></summary>
   <br/>
 
