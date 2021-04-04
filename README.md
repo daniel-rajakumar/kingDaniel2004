@@ -1,4 +1,4 @@
-<h1> <img src="pikahello.gif" width="60"> Hi there, I'm Daniel</h1>
+<h1> <img src="pikahello.gif" width="50"> Hi there, I'm Daniel</h1>
 
 
 
@@ -7,7 +7,7 @@
 
 
 <h2><details>
-<summary><b>EXPERIENCES:</b></summary>
+<summary><b> EXPERIENCES:</b></summary>
 <br/>
 
 
@@ -46,7 +46,7 @@
 <!-- <hr/> -->
 
 <h2><details>
-<summary><b>TODO: </b></summary>
+<summary><b>TODO: <img src="check.gif" width="25"></b></summary>
   <br/>
 
 
