@@ -19,20 +19,20 @@
 ☆☆☆☆☆ 
 -->
 
-<img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★☆☆-Java-F89917?logo=java&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★☆☆-GNU/Linux-FCC624?logo=linux&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆☆☆-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★☆☆-Android-3DDC84?logo=android&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★★★-Googling-34A853?logo=google&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆☆☆-Node.JS-339933?logo=node.js&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★☆☆-Vim-019733?logo=vim&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★★☆-Windows%2010-0078D6?logo=windows&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★★☆☆-VS code-007ACC?logo=visual%20studio%20code&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★☆☆☆☆-CSS3-1572B6?logo=CSS3&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆☆☆-Python-3776AB?logo=python&logoColor=ffffff" height="30"><br/>
-<img src="https://img.shields.io/badge/★★☆☆☆-Unity-000000?logo=unity&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-Git-F05032?logo=git&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-Java-F89917?logo=java&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-GNU/Linux-FCC624?logo=linux&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-Android-3DDC84?logo=android&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★★★-Googling-34A853?logo=google&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Node.JS-339933?logo=node.js&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-Vim-019733?logo=vim&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★★☆-Windows%2010-0078D6?logo=windows&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★★☆☆-VS code-007ACC?logo=visual%20studio%20code&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★☆☆☆☆-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Python-3776AB?logo=python&logoColor=ffffff&style=plastic" height="30"><br/>
+<img src="https://img.shields.io/badge/★★☆☆☆-Unity-000000?logo=unity&logoColor=ffffff&style=plastic" height="30"><br/>
 
 
 </details></h4>
@@ -45,8 +45,8 @@
 
 
 
-<input type="checkbox" style="width: 30px;height: 30px">
-<img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff" height="30"><br/>
+<!-- <input type="checkbox" style="width: 30px;height: 30px"> -->
+<img src="https://img.shields.io/badge/☆☆☆☆☆-TensorFlow-FF6F00?logo=TensorFlow&logoColor=ffffff" height="30"><br/>    
 <img src="https://img.shields.io/badge/☆☆☆☆☆-MongoDB-47A248?logo=MongoDB&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-0095D5?logo=kotlin&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Azure-0089D6?logo=Microsoft%20Azure&logoColor=ffffff" height="30"><br/>
