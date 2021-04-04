@@ -6,12 +6,13 @@
 <summary><b>Primary Technology Skills</b></summary>
   <br/>
 
-<img src="https://img.shields.io/static/v1?message=Java&logo=java&labelColor=444444&color=F89917&logoColor=white&label=%20&logoWidth=20" height="30">
-
-<img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=444444&color=3674A6&logoColor=white&label=%20&logoWidth=20" height="30">
 
 
-<img src="https://img.shields.io/static/v1?message=Java%20Script&logo=javascript&labelColor=444444&color=EFD81D&logoColor=white&label=%20&logoWidth=20" height="30">
+
+<img src="https://img.shields.io/badge/Language-Java-F89917?logo=java&logoColor=ffffff" height="30">
+<img src="https://img.shields.io/badge/Language-Python-3674A6?logo=python&logoColor=ffffff" height="30">
+<img src="https://img.shields.io/badge/Language-Java%20Script-EFD81D?logo=javascript&logoColor=ffffff" height="30">
+
 
 
 </details>
