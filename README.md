@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Language-Java-F89917?logo=java&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/Language-Python-3674A6?logo=python&logoColor=ffffff" height="30"><br/>
 <img src="https://img.shields.io/badge/Language-Java%20Script-EFD81D?logo=javascript&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/OS-GNU/Linux-FFD133?logo=linux&logoColor=ffffff" height="30"><br/>
+<img src="https://img.shields.io/badge/OS-Windows%2010-0083DB?logo=windows&logoColor=ffffff" height="30"><br/>
 
 
 
