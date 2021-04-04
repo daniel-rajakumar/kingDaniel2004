@@ -4,7 +4,7 @@
 
 
 
-<h4 ><details>
+<h2><details>
 <summary><b>EXPERIENCES:</b></summary>
 <br/>
 
@@ -39,11 +39,11 @@
 <img src="https://img.shields.io/badge/★★☆☆☆-Unity-000000?logo=unity&logoColor=ffffff&style=plastic" height="30"><br/>
 
 
-</details></h4>
+</details></h2>
 
 <hr/>
 
-<h4><details>
+<h2><details>
 <summary><b>TODO: </b></summary>
   <br/>
 
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/☆☆☆☆☆-Kotlin-766DB2?logo=kotlin&logoColor=ffffff&style=plastic" height="30"><br/>
 <img src="https://img.shields.io/badge/☆☆☆☆☆-C Sharp-9C73D6?logo=c%20sharp&logoColor=ffffff&style=plastic" height="30"><br/>
 
-</details></h4>
+</details></h2>
 
 <hr/>
 
@@ -75,14 +75,14 @@
 
 <hr/>
 
-<h4><details>
+<h2><details>
 
 <summary><b>  Happy Githubbing! </b></summary>
 <div align="center">
     <img  src='tenor.gif'>
 </div>
 
-</details></h4>
+</details></h2>
 
 <!-- random joke generator -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
