@@ -6,10 +6,10 @@
 <hr>
 
 <h4>
-<ul>
-    <li>Fun fact: I adore onedark theme. </li>
-    <li>Not so fun fact: I adore Comic sans. </li>
-</ul>
+  <ul>
+    <li>Fun fact: I love onedark. </li>
+    <li>Not so fun fact: I love Comic sans. </li>
+  </ul>
 </h4>
 
 <hr>
