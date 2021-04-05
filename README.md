@@ -5,7 +5,8 @@
 
 <h2><details>
   <summary>
-  <b> EXPERIENCES (XP) <img src="xp.gif" width="40" style="float:left; padding-right:10px" ></b>
+    XP
+    <img src="xp.gif" width="40" >
   </summary>
   <br/>
 
@@ -36,7 +37,10 @@
 <!-- TODO section -->
 
 <h2><details>
-  <summary><b>TODOs <img src="check.gif" width="25"></b></summary>
+  <summary>
+    <b>TODOs </b>
+    <img src="check.gif" width="25">
+  </summary>
   <br/>
 
 
@@ -74,7 +78,10 @@
 
 <!-- final section -->
 <details>
-  <summary><b>  Happy Githubbing! <img src="wave.gif" width="35"  style="margin-bottom:-10px"></b></summary>
+  <summary>
+    <b>  Happy Githubbing! </b>
+    <img src="wave.gif" width="35">
+  </summary>
   <div align="center">
       <img  src='tenor.gif'>
   </div>
