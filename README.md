@@ -7,7 +7,7 @@
 
 
 <h2><details>
-<summary><b> EXPERIENCES: <b>TODO: <img src="xp.gif" width="40"></b></summary>
+<summary><b> EXPERIENCES <b><img src="xp.gif" width="40"></b></summary>
 <br/>
 
 
@@ -46,7 +46,7 @@
 <!-- <hr/> -->
 
 <h2><details>
-<summary><b>TODO: <img src="check.gif" width="25"></b></summary>
+<summary><b>TODO <img src="check.gif" width="25"></b></summary>
   <br/>
 
 
