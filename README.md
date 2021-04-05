@@ -6,8 +6,9 @@
 
   <h4>
     <ul>
-      <li>Fun fact: I love onedark. </li>
-      <li>Not so fun fact: I love Comic sans. </li>
+      <li> <img src="blob_sleep.gif" height="30px"> About me: A lazy highschooler whose always trying to automate stuff... </li>
+      <li> <img src="blob_glasses.gif" height="30px"> Fun fact: I love onedark. </li>
+      <li> <img src="blob_whistling.gif" height="30px"> Not so fun fact: I love Comic sans. (The greatest font EVER created!!!) </li>
     </ul>
   </h4>
 
