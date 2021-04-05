@@ -3,8 +3,6 @@
 
 <!-- Experience section -->
 
-<hr>
-
 <h4>
   <ul>
     <li>Fun fact: I love onedark. </li>
