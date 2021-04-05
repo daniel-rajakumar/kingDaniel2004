@@ -5,7 +5,7 @@
 
 <h2><details>
   <summary>
-  <b> EXPERIENCES (XP) <img src="xp.gif" width="40"  style="margin-bottom:-10px"></b>
+  <b> EXPERIENCES (XP) <img src="xp.gif" width="40" style="float:left; padding-right:10px" ></b>
   </summary>
   <br/>
 
