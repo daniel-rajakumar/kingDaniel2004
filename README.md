@@ -1,14 +1,15 @@
+<div style="font-family: 'comic sans ms';">hello world
 <h1> <img src="pikahello.gif" width="60"> <img src="https://i.imgur.com/DmcCi8v.gif" width="500"></h1>
 
 
 <!-- Experience section -->
 
-<h4>
-  <ul>
-    <li>Fun fact: I love onedark. </li>
-    <li>Not so fun fact: I love Comic sans. </li>
-  </ul>
-</h4>
+  <h4>
+    <ul>
+      <li>Fun fact: I love onedark. </li>
+      <li>Not so fun fact: I love Comic sans. </li>
+    </ul>
+  </h4>
 
 <hr>
 
@@ -96,6 +97,7 @@
   </div>
 </details>
 
+</div>
 
 
 
@@ -106,5 +108,3 @@
 
 
 
-
-    
