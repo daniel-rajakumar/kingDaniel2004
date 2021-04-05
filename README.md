@@ -38,7 +38,7 @@
 
 <h2><details>
   <summary>
-    <b>TODOs </b>
+    <b>TODO</b>
     <img src="check.gif" width="25">
   </summary>
   <br/>
