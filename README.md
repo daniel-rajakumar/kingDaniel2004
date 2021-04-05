@@ -68,7 +68,8 @@
     <img src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&show_icons=true&theme=onedark&count_private=true&line_height=20' align="center" />
     <!-- <img  src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&count_private=true&show_icons=true&theme=onedark'> -->
     <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&layout=compact&theme=onedark' align="center">
-    <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center">
+    <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=true' align="center">
+    <!-- <img  src='https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7' align="center"> -->
     <img src='https://profile-counter.glitch.me/kingDaniel2004/count.svg' alt="Visitor Count" />
 </div>
 
