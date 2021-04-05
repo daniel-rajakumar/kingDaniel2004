@@ -74,7 +74,7 @@
 
 <!-- final section -->
 <details>
-  <summary><b>  Happy Githubbing! <img src="wave.gif" width="25"></b></summary>
+  <summary><b>  Happy Githubbing! <img src="wave.gif" width="35"  style="margin-bottom:-10px"></b></summary>
   <div align="center">
       <img  src='tenor.gif'>
   </div>
