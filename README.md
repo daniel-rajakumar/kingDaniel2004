@@ -1,4 +1,3 @@
-<div style="font-family: 'comic sans ms';">
 <h1> <img src="pikahello.gif" width="60"> <img src="https://i.imgur.com/DmcCi8v.gif" width="500"></h1>
 
 
@@ -8,9 +7,10 @@
     <ul>
       <li> <img src="blob_sleep.gif" height="30px"> About me: A lazy highschooler whose always trying to automate stuff... </li>
       <li> <img src="blob_glasses.gif" height="30px"> Fun fact: I love onedark. </li>
-      <li> <img src="blob_whistling.gif" height="30px"> Not so fun fact: I love Comic sans. (The greatest font EVER created!!!) </li>
+      <li> <img src="blob_whistling.gif" height="30px">  Not so fun fact: I love Comic sans. (The greatest font EVER created!!!) </li>
     </ul>
   </h4>
+
 
 <hr>
 
@@ -76,7 +76,7 @@
 
 <!-- Statistics -->
 <div align="center">
-    <img  src='https://github-readme-streak-stats.herokuapp.com/?user=kingDaniel2004&theme=onedark' align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src='https://github-readme-streak-stats.herokuapp.com/?user=kingDaniel2004&theme=onedark' align="center"><br><br>
     <img src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&show_icons=true&theme=onedark&count_private=true&line_height=20' align="center" />
     <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&layout=compact&theme=onedark&count_private=true' align="center">
     <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center">
@@ -97,8 +97,6 @@
       <img  src='tenor.gif'>
   </div>
 </details>
-
-</div>
 
 
 
