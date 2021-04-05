@@ -1,4 +1,4 @@
-<h1> <img src="pikahello.gif" width="110"> <img src="https://i.imgur.com/q3R2AmB.gif" width="500"></h1>
+<h1> <img src="pikahello.gif" width="60"> <img src="https://i.imgur.com/DmcCi8v.gif" width="500"></h1>
 
 
 <!-- Experience section -->
