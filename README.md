@@ -78,7 +78,7 @@
 <hr/>
 
 <details>
-<summary><b>  Happy Githubbing! <img src="wave.gif" width="50"></b></summary>
+<summary><b>  Happy Githubbing! <img src="wave.gif" width="25"></b></summary>
 <div align="center">
     <img  src='tenor.gif'>
 </div>
