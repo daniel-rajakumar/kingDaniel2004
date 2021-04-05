@@ -3,6 +3,17 @@
 
 <!-- Experience section -->
 
+<hr>
+
+<h4>
+<ul>
+    <li>Fun fact: I adore onedark theme. </li>
+    <li>Not so fun fact: I adore Comic sans. </li>
+</ul>
+</h4>
+
+<hr>
+
 <h2><details>
   <summary>
     XP
