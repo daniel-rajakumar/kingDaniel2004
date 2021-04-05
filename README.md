@@ -7,7 +7,7 @@
 
 
 <h2><details>
-<summary><b> EXPERIENCES:</b></summary>
+<summary><b> EXPERIENCES: <b>TODO: <img src="xp.gif" width="40"></b></summary>
 <br/>
 
 
