@@ -6,8 +6,8 @@
   <h4>
     <ul>
       <li> <img src="blob_sleep.gif" height="30px"> About me: A lazy highschooler whose always trying to automate stuff... </li>
-      <li> <img src="blob_glasses.gif" height="30px"> Fun fact: I love onedark. </li>
-      <li> <img src="blob_whistling.gif" height="30px">  Not so fun fact: I love Comic sans. (The greatest font EVER created!!!) </li>
+      <li> <img src="blob_glasses.gif" height="30px"> Fun fact: I love onedark scheme. </li>
+      <li> <img src="blob_whistling.gif" height="30px">  Not so fun fact: I love Comic Sans. (The greatest font EVER created!!!) </li>
     </ul>
   </h4>
 
@@ -76,12 +76,11 @@
 
 <!-- Statistics -->
 <div align="center">
-    <img  src='https://github-readme-streak-stats.herokuapp.com/?user=kingDaniel2004&theme=onedark' align="center"><br><br>
-    <img src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&show_icons=true&theme=onedark&count_private=true&line_height=20' align="center" />
-    <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&layout=compact&theme=onedark&count_private=true' align="center">
-    <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center">
+    <img  src='https://github-readme-streak-stats.herokuapp.com/?user=kingDaniel2004&theme=onedark' align="center" alt="Streak Stats" ><br><br>
+    <img src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&show_icons=true&theme=onedark&count_private=true&line_height=20' align="center" alt="Github Stats" />
+    <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&layout=compact&theme=onedark&count_private=true' align="center" alt="Top Languages">
+    <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center" alt="Trophy" >
     <img src='https://profile-counter.glitch.me/kingDaniel2004/count.svg' alt="Visitor Count" />
-
 </div>
 
 
