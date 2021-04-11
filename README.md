@@ -17,7 +17,7 @@
 <h2><details>
   <summary>
     XP
-    <img src="xp.gif" width="40" >
+<!--     <img src="xp.gif" width="40" > -->
   </summary>
   <br/>
 
