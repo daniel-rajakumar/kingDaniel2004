@@ -78,7 +78,7 @@
 <div align="center">
     <img  src='https://github-readme-streak-stats.herokuapp.com/?user=kingDaniel2004&theme=onedark' align="center" alt="Streak Stats" ><br><br>
     <img src='https://github-readme-stats.vercel.app/api?username=kingDaniel2004&show_icons=true&theme=onedark&count_private=true&line_height=20' align="center" alt="Github Stats" />
-    <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&langs_count=8&layout=compact&theme=onedark&count_private=true' align="center" alt="Top Languages">
+    <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=kingDaniel2004&langs_count=10&layout=compact&theme=onedark&count_private=true' align="center" alt="Top Languages">
     <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center" alt="Trophy" >
     <img src='https://profile-counter.glitch.me/kingDaniel2004/count.svg' alt="Visitor Count" />
 </div>
