@@ -85,10 +85,10 @@
 
 
 <!-- RICE -->
-<br/>
+<hr>
 <h4>RICE - LINUX :)</h4>
 <img src='Onedark_bspwm_manjaro.jpg' alt="Rice" />
-
+<hr>
 
 <!-- final section -->
 <details>
