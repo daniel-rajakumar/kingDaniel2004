@@ -84,9 +84,11 @@
 </div>
 
 
+<!-- RICE -->
+<br/>
+<h4>RICE - LINUX :)</h4>
+<img src='Onedark_bspwm_manjaro.jpg' alt="Rice" />
 
-
-<img src='Onedark_bspwm_manjaro.jpg' alt="Visitor Count" />
 
 <!-- final section -->
 <details>
