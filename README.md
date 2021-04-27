@@ -86,6 +86,8 @@
 
 
 
+<img src='Onedark_bspwm_manjaro.jpg' alt="Visitor Count" />
+
 <!-- final section -->
 <details>
   <summary>
