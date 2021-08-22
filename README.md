@@ -82,14 +82,13 @@
     <img  src='https://github-profile-trophy.vercel.app/?username=kingDaniel2004&theme=onedark&margin-w=1&no-bg=false' align="center" alt="Trophy" >
     <img src='https://profile-counter.glitch.me/kingDaniel2004/count.svg' alt="Visitor Count" />
 </div>
-
+<hr>
 
 <!-- RICE -->
 <!-- 
 <hr>
 <h4>RICE - LINUX :)</h4>
 <img src='<image_name>.jpg' alt="Rice" />
-<hr>
 -->
 
 <!-- final section -->
