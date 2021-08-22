@@ -85,10 +85,12 @@
 
 
 <!-- RICE -->
+<!-- 
 <hr>
 <h4>RICE - LINUX :)</h4>
 <img src='<image_name>.jpg' alt="Rice" />
 <hr>
+-->
 
 <!-- final section -->
 <details>
