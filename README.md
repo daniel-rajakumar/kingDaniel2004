@@ -5,7 +5,7 @@
 
   <h4>
     <ul>
-      <li> <img src="blob_sleep.gif" height="30px"> About me: A lazy highschooler whose always trying to automate stuff... </li>
+      <li> <img src="blob_sleep.gif" height="30px"> About me: A lazy highschooler who's always trying to automate stuff... </li>
       <li> <img src="blob_glasses.gif" height="30px"> Fun fact: I love onedark scheme. </li>
       <li> <img src="blob_whistling.gif" height="30px">  Not so fun fact: I love Comic Sans. (The greatest font EVER created!!!) </li>
     </ul>
